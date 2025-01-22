@@ -2,7 +2,7 @@
 
 git ist super
 
-git ist einfach hello
+git ist einfach hello abdullah
 
 ## git command:
 
