@@ -17,5 +17,5 @@ $ git status
 ```
 
 ```
-$ git 
+$ git log
 ```
