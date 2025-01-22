@@ -19,3 +19,8 @@ $ git status
 ```
 $ git log
 ```
+
+```
+$ git fetch
+$ git pull
+```
